@@ -73,7 +73,7 @@ body {
 }
 
 .hero-description {
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 1.6;
   margin-bottom: 4.8rem;
 }
@@ -84,7 +84,8 @@ body {
   background-color: #e67e22;
   color: #fff;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1.8rem;
+  font-weight: 600;
   padding: 1.6rem 3.2rem;
   transition: all 0.3s;
   border-radius: 9px;
