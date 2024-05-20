@@ -42,7 +42,7 @@ html {
 }
 
 body {
-  font-family: Inter, Arial, Helvetica, sans-serif;
+  font-family: Rubik, Arial, Helvetica, sans-serif;
   line-height: 1;
   font-weight: 400;
   color: #555;
@@ -64,7 +64,7 @@ body {
 }
 
 .heading-primary {
-  font-size: 5.2rem;
+  font-size: 4.4rem;
   font-weight: 700;
   line-height: 1.05;
   color: #333;
